@@ -1,3 +1,4 @@
+/*These are the Libraries*/
 #include <stdio.h>
 #include <conio.h>
 #include <malloc.h>
@@ -30,6 +31,7 @@ void main( )
     while ( 1 )
     {
         clrscr( ) ;
+        /* User Display Menu*/
         printf ( "\n\t\tDictionary\n" ) ;
         printf ( "\n\t\t1.Add Word.\n" ) ;
         printf ( "\t\t2.Search Word.\n" ) ;
